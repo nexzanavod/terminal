@@ -1,3 +1,13 @@
 DIRS=\
-     src 
-
+     buffer \
+     interactivity \
+     host \
+     propsheet \
+     propslib \
+     renderer \
+     server \
+     terminal \
+     testlist \
+     tools \
+     tsf \
+     types \
